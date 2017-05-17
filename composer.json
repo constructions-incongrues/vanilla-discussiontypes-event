@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "constructions-incongrues/vanilla-discussiontype": "dev-release/2.3"
+        "constructions-incongrues/vanilla-discussiontype": "^1.0"
     }
 }
