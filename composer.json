@@ -1,0 +1,15 @@
+{
+    "name": "constructions-incongrues/vanilla-discussiontypes-event",
+    "description": "Vanilla Forums plugin that adds event metadata to discussions.",
+    "minimum-stability": "stable",
+    "license": "gplv3",
+    "authors": [
+        {
+            "name": "Constructions Incongrues",
+            "email": "contact@constructions-incongrues.net"
+        }
+    ],
+    "require": {
+        "constructions-incongrues/vanilla-discussiontype": "dev-release/2.3"
+    }
+}
