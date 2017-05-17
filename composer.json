@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "constructions-incongrues/vanilla-discussiontype": "^1.0"
+        "constructions-incongrues/vanilla-discussiontypes": "^1.0"
     }
 }
